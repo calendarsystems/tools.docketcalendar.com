@@ -1,0 +1,48 @@
+
+Task started at Tue Nov 12 00:51:14 2019
+--------------------------------------
+
+  Command to be executed is:  /usr/bin/php /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php
+ Task ID of this command is:  200549
+Where should log be written:  /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/logs
+                 Start time:  Tue Nov 12 00:51:14 2019
+              Email address:  sdavis@calendarrules.com
+
+--------------------------------------
+PHP Parse error:  syntax error, unexpected ')' in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 77
+
+--------------------------------------
+Task ended at Tue Nov 12 00:51:15 2019
+
+
+Task started at Tue Nov 12 00:56:04 2019
+--------------------------------------
+
+  Command to be executed is:  /usr/bin/php /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php
+ Task ID of this command is:  200549
+Where should log be written:  /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/logs
+                 Start time:  Tue Nov 12 00:56:04 2019
+              Email address:  sdavis@calendarrules.com
+
+--------------------------------------
+PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/Connections/docketDataSubscribe.php on line 33
+The file /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/logs/sample-log.txt exists
+--------------------------------------
+Task ended at Tue Nov 12 00:56:05 2019
+
+
+Task started at Tue Nov 12 01:02:54 2019
+--------------------------------------
+
+  Command to be executed is:  /usr/bin/php /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php
+ Task ID of this command is:  200549
+Where should log be written:  /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/logs
+                 Start time:  Tue Nov 12 01:02:54 2019
+              Email address:  sdavis@calendarrules.com
+
+--------------------------------------
+PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/Connections/docketDataSubscribe.php on line 33
+The file /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/logs/sample-log.txt exists
+--------------------------------------
+Task ended at Tue Nov 12 01:02:55 2019
+

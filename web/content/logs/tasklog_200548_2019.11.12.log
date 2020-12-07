@@ -1,0 +1,253 @@
+
+Task started at Tue Nov 12 00:02:56 2019
+--------------------------------------
+
+  Command to be executed is:  /usr/bin/php /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php
+ Task ID of this command is:  200548
+Where should log be written:  /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/logs
+                 Start time:  Tue Nov 12 00:02:56 2019
+              Email address:  sdavis@calendarrules.com
+
+--------------------------------------
+PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/Connections/docketDataSubscribe.php on line 33
+PHP Notice:  Undefined index: start_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 43
+
+Notice: Undefined index: start_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 43
+PHP Notice:  Undefined index: end_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 43
+
+Notice: Undefined index: end_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 43
+PHP Notice:  Undefined index: id in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/googleCalender/google-calendar-api.php on line 113
+
+Notice: Undefined index: id in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/googleCalender/google-calendar-api.php on line 113
+PHP Notice:  Undefined index: start_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 43
+
+Notice: Undefined index: start_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 43
+PHP Notice:  Undefined index: end_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 43
+
+Notice: Undefined index: end_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 43
+PHP Notice:  Undefined index: id in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/googleCalender/google-calendar-api.php on line 113
+
+Notice: Undefined index: id in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/googleCalender/google-calendar-api.php on line 113
+PHP Notice:  Undefined index: start_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 43
+
+Notice: Undefined index: start_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 43
+PHP Notice:  Undefined index: end_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 43
+
+Notice: Undefined index: end_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 43
+PHP Notice:  Undefined index: id in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/googleCalender/google-calendar-api.php on line 113
+
+Notice: Undefined index: id in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/googleCalender/google-calendar-api.php on line 113
+
+--------------------------------------
+Task ended at Tue Nov 12 00:03:01 2019
+
+
+Task started at Tue Nov 12 00:06:48 2019
+--------------------------------------
+
+  Command to be executed is:  /usr/bin/php /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php
+ Task ID of this command is:  200548
+Where should log be written:  /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/logs
+                 Start time:  Tue Nov 12 00:06:48 2019
+              Email address:  sdavis@calendarrules.com
+
+--------------------------------------
+PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/Connections/docketDataSubscribe.php on line 33
+
+--------------------------------------
+Task ended at Tue Nov 12 00:06:49 2019
+
+
+Task started at Tue Nov 12 00:11:52 2019
+--------------------------------------
+
+  Command to be executed is:  /usr/bin/php /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php
+ Task ID of this command is:  200548
+Where should log be written:  /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/logs
+                 Start time:  Tue Nov 12 00:11:52 2019
+              Email address:  sdavis@calendarrules.com
+
+--------------------------------------
+PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/Connections/docketDataSubscribe.php on line 33
+SELECT * FROM events WHERE send_status = 13MANOJPHP Notice:  Undefined index: start_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 46
+
+Notice: Undefined index: start_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 46
+PHP Notice:  Undefined index: end_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 46
+
+Notice: Undefined index: end_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 46
+UPDATE events set send_status = 2 WHERE id =1031UPDATE import_events set event_id = '057pivri7vnksbioqsg8ehsmbs' WHERE import_event_id =22967MANOJPHP Notice:  Undefined index: start_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 46
+
+Notice: Undefined index: start_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 46
+PHP Notice:  Undefined index: end_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 46
+
+Notice: Undefined index: end_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 46
+UPDATE events set send_status = 2 WHERE id =1032UPDATE import_events set event_id = '04vt7sv4hgmjqthtjpgrc503i4' WHERE import_event_id =22968MANOJPHP Notice:  Undefined index: start_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 46
+
+Notice: Undefined index: start_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 46
+PHP Notice:  Undefined index: end_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 46
+
+Notice: Undefined index: end_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 46
+UPDATE events set send_status = 2 WHERE id =1033UPDATE import_events set event_id = 'ukoupq2f4qt8e26lan7gapt3r8' WHERE import_event_id =22969
+--------------------------------------
+Task ended at Tue Nov 12 00:11:57 2019
+
+
+Task started at Tue Nov 12 00:16:36 2019
+--------------------------------------
+
+  Command to be executed is:  /usr/bin/php /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php
+ Task ID of this command is:  200548
+Where should log be written:  /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/logs
+                 Start time:  Tue Nov 12 00:16:36 2019
+              Email address:  sdavis@calendarrules.com
+
+--------------------------------------
+PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/Connections/docketDataSubscribe.php on line 33
+SELECT * FROM events WHERE send_status = 16PHP Notice:  Undefined index: start_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 49
+
+Notice: Undefined index: start_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 49
+PHP Notice:  Undefined index: end_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 49
+
+Notice: Undefined index: end_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 49
+UPDATE events set send_status = 2 WHERE id =1031UPDATE import_events set event_id = 'tj2tk49f9s32tpitems6rtjh2g' WHERE import_event_id =22967PHP Notice:  Undefined index: start_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 49
+
+Notice: Undefined index: start_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 49
+PHP Notice:  Undefined index: end_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 49
+
+Notice: Undefined index: end_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 49
+PHP Notice:  Undefined index: id in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/googleCalender/google-calendar-api.php on line 113
+
+Notice: Undefined index: id in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/googleCalender/google-calendar-api.php on line 113
+UPDATE events set send_status = 2 WHERE id =1032UPDATE import_events set event_id = '' WHERE import_event_id =22968PHP Notice:  Undefined index: start_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 49
+
+Notice: Undefined index: start_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 49
+PHP Notice:  Undefined index: end_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 49
+
+Notice: Undefined index: end_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 49
+PHP Notice:  Undefined index: id in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/googleCalender/google-calendar-api.php on line 113
+
+Notice: Undefined index: id in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/googleCalender/google-calendar-api.php on line 113
+UPDATE events set send_status = 2 WHERE id =1033UPDATE import_events set event_id = '' WHERE import_event_id =22969PHP Notice:  Undefined index: start_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 49
+
+Notice: Undefined index: start_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 49
+PHP Notice:  Undefined index: end_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 49
+
+Notice: Undefined index: end_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 49
+PHP Notice:  Undefined index: id in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/googleCalender/google-calendar-api.php on line 113
+
+Notice: Undefined index: id in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/googleCalender/google-calendar-api.php on line 113
+UPDATE events set send_status = 2 WHERE id =1034UPDATE import_events set event_id = '' WHERE import_event_id =22970PHP Notice:  Undefined index: start_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 49
+
+Notice: Undefined index: start_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 49
+PHP Notice:  Undefined index: end_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 49
+
+Notice: Undefined index: end_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 49
+PHP Notice:  Undefined index: id in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/googleCalender/google-calendar-api.php on line 113
+
+Notice: Undefined index: id in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/googleCalender/google-calendar-api.php on line 113
+UPDATE events set send_status = 2 WHERE id =1035UPDATE import_events set event_id = '' WHERE import_event_id =22971PHP Notice:  Undefined index: start_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 49
+
+Notice: Undefined index: start_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 49
+PHP Notice:  Undefined index: end_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 49
+
+Notice: Undefined index: end_time in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 49
+UPDATE events set send_status = 2 WHERE id =1036UPDATE import_events set event_id = 'c9ushiufukvboahm7ck2dj6jtc' WHERE import_event_id =22972
+--------------------------------------
+Task ended at Tue Nov 12 00:16:46 2019
+
+
+Task started at Tue Nov 12 00:22:11 2019
+--------------------------------------
+
+  Command to be executed is:  /usr/bin/php /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php
+ Task ID of this command is:  200548
+Where should log be written:  /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/logs
+                 Start time:  Tue Nov 12 00:22:11 2019
+              Email address:  sdavis@calendarrules.com
+
+--------------------------------------
+PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/Connections/docketDataSubscribe.php on line 33
+SELECT * FROM events WHERE send_status = 10
+--------------------------------------
+Task ended at Tue Nov 12 00:22:12 2019
+
+
+Task started at Tue Nov 12 00:26:50 2019
+--------------------------------------
+
+  Command to be executed is:  /usr/bin/php /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php
+ Task ID of this command is:  200548
+Where should log be written:  /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/logs
+                 Start time:  Tue Nov 12 00:26:50 2019
+              Email address:  sdavis@calendarrules.com
+
+--------------------------------------
+PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/Connections/docketDataSubscribe.php on line 33
+SELECT * FROM events WHERE send_status = 10
+--------------------------------------
+Task ended at Tue Nov 12 00:26:51 2019
+
+
+Task started at Tue Nov 12 00:32:53 2019
+--------------------------------------
+
+  Command to be executed is:  /usr/bin/php /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php
+ Task ID of this command is:  200548
+Where should log be written:  /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/logs
+                 Start time:  Tue Nov 12 00:32:53 2019
+              Email address:  sdavis@calendarrules.com
+
+--------------------------------------
+PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/Connections/docketDataSubscribe.php on line 33
+SELECT * FROM events WHERE send_status = 10
+--------------------------------------
+Task ended at Tue Nov 12 00:32:55 2019
+
+
+Task started at Tue Nov 12 00:36:52 2019
+--------------------------------------
+
+  Command to be executed is:  /usr/bin/php /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php
+ Task ID of this command is:  200548
+Where should log be written:  /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/logs
+                 Start time:  Tue Nov 12 00:36:52 2019
+              Email address:  sdavis@calendarrules.com
+
+--------------------------------------
+PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/Connections/docketDataSubscribe.php on line 33
+SELECT * FROM events WHERE send_status = 10
+--------------------------------------
+Task ended at Tue Nov 12 00:36:53 2019
+
+
+Task started at Tue Nov 12 00:41:22 2019
+--------------------------------------
+
+  Command to be executed is:  /usr/bin/php /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php
+ Task ID of this command is:  200548
+Where should log be written:  /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/logs
+                 Start time:  Tue Nov 12 00:41:22 2019
+              Email address:  sdavis@calendarrules.com
+
+--------------------------------------
+PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/Connections/docketDataSubscribe.php on line 33
+SELECT * FROM events WHERE send_status = 10
+--------------------------------------
+Task ended at Tue Nov 12 00:41:23 2019
+
+
+Task started at Tue Nov 12 00:46:31 2019
+--------------------------------------
+
+  Command to be executed is:  /usr/bin/php /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php
+ Task ID of this command is:  200548
+Where should log be written:  /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/logs
+                 Start time:  Tue Nov 12 00:46:31 2019
+              Email address:  sdavis@calendarrules.com
+
+--------------------------------------
+PHP Parse error:  syntax error, unexpected '=' in /mnt/stor1-wc1-dfw1/375786/www.googledocket.com/web/content/CRON/CRON_add_calendar_event.php on line 37
+
+--------------------------------------
+Task ended at Tue Nov 12 00:46:32 2019
+

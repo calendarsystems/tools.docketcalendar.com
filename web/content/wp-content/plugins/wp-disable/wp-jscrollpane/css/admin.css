@@ -1,0 +1,6 @@
+div#wpjsp-errors * {color: red;}
+div#wpjsp-wrap table.form-table {background-color: grey;}
+table.widefat {margin: 0px 0px 20px 0px;}
+table.widefat label,div#wpjsp-tips label {display: inline-block;cursor: default !important;}
+table.widefat th input.button {padding: 3px 8px !important;}
+form#wpjsp-form p.submit {padding-top: 0px;}

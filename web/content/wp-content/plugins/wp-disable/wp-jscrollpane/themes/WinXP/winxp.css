@@ -1,0 +1,58 @@
+.jspHorizontalBar
+{
+        height: 17px;
+}
+
+.jspVerticalBar
+{
+        width: 17px;
+}
+
+.jspHorizontalBar,
+.jspVerticalBar,
+.jspTrack
+{
+        background: url('./windows_track.gif') repeat-y;
+}
+
+.jspDrag
+ {
+        background: url('./windows_drag_middle.gif') no-repeat 0 50%;
+}
+
+.jspDrag > .jspDragTop
+{
+        background: url('./windows_drag_top.gif') no-repeat;
+        height: 4px;
+}
+
+.jspDrag > .jspDragBottom
+{
+        background: url('./windows_drag_bottom.gif') no-repeat;
+        background-position: center bottom !important;
+        height: 100% !important;
+}
+
+.jspVerticalBar > .jspArrow
+{
+    height: 17px;
+}
+.jspVerticalBar > .jspArrowUp
+{
+	background: url('./windows_arrow_up.gif') no-repeat 0 0;
+}
+
+.jspVerticalBar > .jspArrowUp:hover
+{
+	background-position: 0 -20px;
+}
+
+.jspVerticalBar > .jspArrowDown
+{
+	background: url('./windows_arrow_down.gif') no-repeat 0 0;
+}
+
+.jspVerticalBar > .jspArrowDown:hover
+{
+	background-position: 0 -20px;
+}
