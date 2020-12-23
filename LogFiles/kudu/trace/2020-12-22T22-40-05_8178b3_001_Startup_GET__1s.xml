@@ -1,0 +1,5 @@
+<step title="Startup Request" date="2020-12-22T22:40:05.235" instance="8178b3" url="/" method="GET" type="request" pid="18904,2,6" SCM_SKIP_SSL_VALIDATION="0" ScmType="None" >
+  <step title="Cleanup Xml Logs" date="2020-12-22T22:40:05.267" >
+    <step title="Cleanup Infos" date="2020-12-22T22:40:05.282" totalFiles="200" totalCleanup="40" /><!-- duration: 1219ms -->
+  </step><!-- duration: 1234ms -->
+</step><!-- duration: 1281ms -->

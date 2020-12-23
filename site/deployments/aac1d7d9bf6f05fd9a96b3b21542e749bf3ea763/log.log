@@ -1,0 +1,65 @@
+2020-12-07T11:27:50.6985066Z,Updating submodules.,741d5b22-18d5-4334-a95e-4a45e8a8d236,0
+2020-12-07T11:27:50.8078749Z,Preparing deployment for commit id 'aac1d7d9bf'.,6bae273d-2d92-40ef-a806-04614d52e59d,0
+2020-12-07T11:27:51.1985231Z,Generating deployment script.,a80538f7-b526-4821-89e0-85d45faa3c7d,0
+	2020-12-07T11:27:51.2923100Z,Using the following command to generate deployment script: 'azure site deploymentscript -y --no-dot-deployment -r "D:\home\site\repository" -o "D:\home\site\deployments\tools" --basic --sitePath "D:\home\site\repository"'.,,0
+	2020-12-07T11:27:52.2170630Z,Generating deployment script for Web Site,,0
+2020-12-07T11:27:52.3889464Z,Running deployment command...,956214d0-dab5-4cc1-ae23-a1c9e1ffe4e9,0
+	2020-12-07T11:27:52.4045792Z,Command: "D:\home\site\deployments\tools\deploy.cmd",,0
+	2020-12-07T11:27:54.3123904Z,Handling Basic Web Site deployment.,,0
+	2020-12-07T11:27:55.2804160Z,Creating app_offline.htm,,0
+	2020-12-07T11:27:55.2804160Z,KuduSync.NET from: 'D:\home\site\repository' to: 'D:\home\site\wwwroot',,0
+	2020-12-07T11:27:55.2804160Z,Deleting file: 'hostingstart.html',,0
+	2020-12-07T11:27:55.3117186Z,Copying file: '.user.ini',,0
+	2020-12-07T11:27:55.3117186Z,Copying file: 'azuredeploy.json',,0
+	2020-12-07T11:27:55.3272913Z,Copying file: 'index.php',,0
+	2020-12-07T11:27:55.3272913Z,Copying file: 'license.txt',,0
+	2020-12-07T11:27:55.3272913Z,Copying file: 'readme.html',,0
+	2020-12-07T11:27:55.3429537Z,Copying file: 'readme.md',,0
+	2020-12-07T11:27:55.3429537Z,Copying file: 'wp-activate.php',,0
+	2020-12-07T11:27:55.3429537Z,Copying file: 'wp-blog-header.php',,0
+	2020-12-07T11:27:55.3585475Z,Copying file: 'wp-comments-post.php',,0
+	2020-12-07T11:27:55.3585475Z,Copying file: 'wp-config-sample.php',,0
+	2020-12-07T11:27:55.3585475Z,Copying file: 'wp-config.php',,0
+	2020-12-07T11:27:55.3742075Z,Copying file: 'wp-cron.php',,0
+	2020-12-07T11:27:55.3742075Z,Copying file: 'wp-links-opml.php',,0
+	2020-12-07T11:27:55.3742075Z,Copying file: 'wp-load.php',,0
+	2020-12-07T11:27:55.3898104Z,Copying file: 'wp-login.php',,0
+	2020-12-07T11:27:55.3898104Z,Copying file: 'wp-mail.php',,0
+	2020-12-07T11:27:55.3898104Z,Copying file: 'wp-settings.php',,0
+	2020-12-07T11:27:55.3898104Z,Copying file: 'wp-signup.php',,0
+	2020-12-07T11:27:55.4054151Z,Copying file: 'wp-trackback.php',,0
+	2020-12-07T11:27:55.4054151Z,Copying file: 'xmlrpc.php',,0
+	2020-12-07T11:27:55.4211028Z,Copying file: 'wp-admin\about.php',,0
+	2020-12-07T11:27:55.4211028Z,Copying file: 'wp-admin\admin-ajax.php',,0
+	2020-12-07T11:27:55.4367066Z,Copying file: 'wp-admin\admin-footer.php',,0
+	2020-12-07T11:27:55.4367066Z,Copying file: 'wp-admin\admin-functions.php',,0
+	2020-12-07T11:27:55.4367066Z,Copying file: 'wp-admin\admin-header.php',,0
+	2020-12-07T11:27:55.4367066Z,Copying file: 'wp-admin\admin-post.php',,0
+	2020-12-07T11:27:55.7336561Z,Copying file: 'wp-admin\admin.php',,0
+	2020-12-07T11:27:55.7336561Z,Copying file: 'wp-admin\async-upload.php',,0
+	2020-12-07T11:27:55.7491817Z,Copying file: 'wp-admin\comment.php',,0
+	2020-12-07T11:27:55.7491817Z,Copying file: 'wp-admin\credits.php',,0
+	2020-12-07T11:27:55.7491817Z,Copying file: 'wp-admin\custom-background.php',,0
+	2020-12-07T11:27:55.7648289Z,Copying file: 'wp-admin\custom-header.php',,0
+	2020-12-07T11:27:55.7648289Z,Copying file: 'wp-admin\customize.php',,0
+	2020-12-07T11:27:55.7648289Z,Copying file: 'wp-admin\edit-comments.php',,0
+	2020-12-07T11:27:55.7804263Z,Copying file: 'wp-admin\edit-form-advanced.php',,0
+	2020-12-07T11:27:55.7804263Z,Copying file: 'wp-admin\edit-form-blocks.php',,0
+	2020-12-07T11:27:55.7804263Z,Copying file: 'wp-admin\edit-form-comment.php',,0
+	2020-12-07T11:27:55.7960605Z,Copying file: 'wp-admin\edit-link-form.php',,0
+	2020-12-07T11:27:55.8116909Z,Copying file: 'wp-admin\edit-tag-form.php',,0
+	2020-12-07T11:27:55.8116909Z,Copying file: 'wp-admin\edit-tags.php',,0
+	2020-12-07T11:27:55.8116909Z,Copying file: 'wp-admin\edit.php',,0
+	2020-12-07T11:27:55.8273110Z,Copying file: 'wp-admin\export.php',,0
+	2020-12-07T11:27:55.8273110Z,Copying file: 'wp-admin\freedoms.php',,0
+	2020-12-07T11:27:55.8273110Z,Copying file: 'wp-admin\import.php',,0
+	2020-12-07T11:27:55.8435787Z,Copying file: 'wp-admin\index.php',,0
+	2020-12-07T11:27:55.8435787Z,Copying file: 'wp-admin\install-helper.php',,0
+	2020-12-07T11:27:55.8435787Z,Copying file: 'wp-admin\install.php',,0
+	2020-12-07T11:27:55.8435787Z,Omitting next output lines...,,0
+	2020-12-07T11:28:15.7345916Z,Processed 863 files...,,0
+	2020-12-07T11:28:35.7602551Z,Processed 1707 files...,,0
+	2020-12-07T11:28:39.5575880Z,Finished successfully.,,0
+2020-12-07T11:28:39.6825585Z,Running post deployment command(s)...,134eab58-400e-4dba-b130-82b1f26a7cb9,0
+2020-12-07T11:28:40.1200684Z,Triggering recycle (preview mode disabled).,b72c4b08-977c-48ab-8c67-57affe19344d,0
+2020-12-07T11:28:40.2763242Z,Deployment successful.,a10e23e0-158d-4450-9749-eb47477b8bdc,0

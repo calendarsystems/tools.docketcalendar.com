@@ -1,0 +1,6 @@
+<step title="Incoming Request" date="2020-12-11T19:23:59.993" instance="8178b3" url="/api/settings/branch" method="GET" type="request" pid="22004,2,18" Connection="Keep-Alive" Authorization="Bas..." Host="toolsdc.scm.azurewebsites.net" User-Agent="Azure-WebSites-Controller/91.0.7.79" x-ms-request-id="58bb8038-923c-42fd-97ab-68fed6b0846a" X-WAWS-Unencoded-URL="/api/settings/branch" CLIENT-IP="52.173.87.130:59072" X-ARR-LOG-ID="58bb8038-923c-42fd-97ab-68fed6b0846a" X-SITE-DEPLOYMENT-ID="ToolsDC" WAS-DEFAULT-HOSTNAME="toolsdc.scm.azurewebsites.net" X-Forwarded-Proto="https" X-AppService-Proto="https" X-Forwarded-TlsVersion="1.2" >
+  <step title="Cleanup Xml Logs" date="2020-12-11T19:24:00.009" >
+    <step title="Cleanup Infos" date="2020-12-11T19:24:00.118" totalFiles="200" totalCleanup="40" /><!-- duration: 531ms -->
+  </step><!-- duration: 656ms -->
+  <step title="Outgoing response" date="2020-12-11T19:24:00.665" type="response" statusCode="200" statusText="OK" Server="Microsoft-IIS/10.0" x-ms-request-id="58bb8038-923c-42fd-97ab-68fed6b0846a" Cache-Control="private" X-AspNet-Version="4.0.30319" Content-Type="application/json; charset=utf-8" /><!-- duration: 16ms -->
+</step><!-- duration: 688ms -->

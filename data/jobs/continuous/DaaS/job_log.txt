@@ -1,0 +1,291 @@
+[12/07/2020 13:01:31 > 8178b3: SYS INFO] Status changed to Starting
+[12/07/2020 13:01:31 > 8178b3: SYS WARN] 'Always On' doesn't appear to be enabled for this Web App. To ensure your continuous job doesn't stop running when the SCM host is idle for too long, consider enabling 'Always On' in the configuration settings for your Web App. Note: 'Always On' is available only in Basic, Standard and Premium modes.
+[12/07/2020 13:01:31 > 8178b3: SYS INFO] WebJob singleton setting is False
+[12/07/2020 13:01:31 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/07/2020 13:01:31 > 8178b3: SYS INFO] Status changed to Running
+[12/07/2020 13:09:01 > 8178b3: SYS INFO] WebJob is stopping due to website shutting down
+[12/07/2020 13:09:01 > 8178b3: SYS INFO] Status changed to Stopping
+[12/07/2020 13:09:07 > 8178b3: ERR ] Thread was being aborted.
+[12/07/2020 13:09:07 > 8178b3: SYS INFO] WebJob process was aborted
+[12/07/2020 13:09:07 > 8178b3: SYS INFO] Status changed to Stopped
+[12/07/2020 13:09:28 > 8178b3: SYS INFO] Status changed to Starting
+[12/07/2020 13:09:28 > 8178b3: SYS INFO] WebJob singleton setting is False
+[12/07/2020 13:09:29 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/07/2020 13:09:29 > 8178b3: SYS INFO] Status changed to Running
+[12/07/2020 14:09:29 > 8178b3: SYS INFO] WebJob is still running
+[12/08/2020 02:09:30 > 8178b3: SYS INFO] WebJob is still running
+[12/08/2020 14:09:32 > 8178b3: SYS INFO] WebJob is still running
+[12/09/2020 02:09:33 > 8178b3: SYS INFO] WebJob is still running
+[12/09/2020 14:09:35 > 8178b3: SYS INFO] WebJob is still running
+[12/09/2020 18:24:19 > 8178b3: SYS INFO] WebJob is stopping due to website shutting down
+[12/09/2020 18:24:19 > 8178b3: SYS INFO] Status changed to Stopping
+[12/09/2020 18:24:24 > 8178b3: ERR ] Thread was being aborted.
+[12/09/2020 18:24:24 > 8178b3: SYS INFO] WebJob process was aborted
+[12/09/2020 18:24:24 > 8178b3: SYS INFO] Status changed to Stopped
+[12/09/2020 18:24:53 > 8178b3: SYS INFO] Status changed to Starting
+[12/09/2020 18:24:53 > 8178b3: SYS INFO] WebJob singleton setting is False
+[12/09/2020 18:24:53 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/09/2020 18:24:54 > 8178b3: SYS INFO] Status changed to Running
+[12/09/2020 18:25:19 > 8178b3: SYS INFO] WebJob is stopping due to website shutting down
+[12/09/2020 18:25:19 > 8178b3: SYS INFO] Status changed to Stopping
+[12/09/2020 18:25:25 > 8178b3: ERR ] Thread was being aborted.
+[12/09/2020 18:25:25 > 8178b3: SYS INFO] WebJob process was aborted
+[12/09/2020 18:25:25 > 8178b3: SYS INFO] Status changed to Stopped
+[12/09/2020 18:25:38 > 8178b3: SYS INFO] Status changed to Starting
+[12/09/2020 18:25:38 > 8178b3: SYS INFO] WebJob singleton setting is False
+[12/09/2020 18:25:38 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/09/2020 18:25:38 > 8178b3: SYS INFO] Status changed to Running
+[12/09/2020 18:35:18 > 8178b3: SYS INFO] WebJob is stopping due to website shutting down
+[12/09/2020 18:35:18 > 8178b3: SYS INFO] Status changed to Stopping
+[12/09/2020 18:35:23 > 8178b3: ERR ] Thread was being aborted.
+[12/09/2020 18:35:23 > 8178b3: SYS INFO] WebJob process was aborted
+[12/09/2020 18:35:23 > 8178b3: SYS INFO] Status changed to Stopped
+[12/09/2020 18:35:54 > 8178b3: SYS INFO] Status changed to Starting
+[12/09/2020 18:35:54 > 8178b3: SYS INFO] WebJob singleton setting is False
+[12/09/2020 18:35:55 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/09/2020 18:35:55 > 8178b3: SYS INFO] Status changed to Running
+[12/09/2020 19:35:55 > 8178b3: SYS INFO] WebJob is still running
+[12/10/2020 06:14:05 > 8178b3: SYS INFO] WebJob is stopping due to website shutting down
+[12/10/2020 06:14:05 > 8178b3: SYS INFO] Status changed to Stopping
+[12/10/2020 06:14:10 > 8178b3: ERR ] Thread was being aborted.
+[12/10/2020 06:14:10 > 8178b3: SYS INFO] WebJob process was aborted
+[12/10/2020 06:14:10 > 8178b3: SYS INFO] Status changed to Stopped
+[12/10/2020 06:14:36 > 8178b3: SYS INFO] Status changed to Starting
+[12/10/2020 06:14:36 > 8178b3: SYS INFO] WebJob singleton setting is False
+[12/10/2020 06:14:37 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/10/2020 06:14:37 > 8178b3: SYS INFO] Status changed to Running
+[12/10/2020 07:14:37 > 8178b3: SYS INFO] WebJob is still running
+[12/10/2020 19:14:38 > 8178b3: SYS INFO] WebJob is still running
+[12/11/2020 07:14:40 > 8178b3: SYS INFO] WebJob is still running
+[12/11/2020 17:23:03 > 8178b3: SYS INFO] WebJob is stopping due to website shutting down
+[12/11/2020 17:23:03 > 8178b3: SYS INFO] Status changed to Stopping
+[12/11/2020 17:23:08 > 8178b3: ERR ] Thread was being aborted.
+[12/11/2020 17:23:09 > 8178b3: SYS INFO] WebJob process was aborted
+[12/11/2020 17:23:09 > 8178b3: SYS INFO] Status changed to Stopped
+[12/11/2020 17:23:25 > 8178b3: SYS INFO] Status changed to Starting
+[12/11/2020 17:23:25 > 8178b3: SYS INFO] WebJob singleton setting is False
+[12/11/2020 17:23:26 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/11/2020 17:23:26 > 8178b3: SYS INFO] Status changed to Running
+[12/11/2020 17:23:32 > 8178b3: SYS INFO] Detected WebJob file/s were updated, refreshing WebJob
+[12/11/2020 17:23:32 > 8178b3: SYS INFO] Status changed to Stopping
+[12/11/2020 17:23:37 > 8178b3: ERR ] Thread was being aborted.
+[12/11/2020 17:23:38 > 8178b3: SYS INFO] WebJob process was aborted
+[12/11/2020 17:23:38 > 8178b3: SYS INFO] Status changed to Stopped
+[12/11/2020 17:23:38 > 8178b3: SYS INFO] Status changed to Starting
+[12/11/2020 17:23:38 > 8178b3: SYS INFO] Job directory change detected: Job file 'DaaS.dll' timestamp differs between source and working directories.
+[12/11/2020 17:23:38 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/11/2020 17:23:38 > 8178b3: SYS INFO] Status changed to Running
+[12/11/2020 17:25:23 > 8178b3: SYS INFO] WebJob is stopping due to website shutting down
+[12/11/2020 17:25:23 > 8178b3: SYS INFO] Status changed to Stopping
+[12/11/2020 17:25:28 > 8178b3: ERR ] Thread was being aborted.
+[12/11/2020 17:25:29 > 8178b3: SYS INFO] WebJob process was aborted
+[12/11/2020 17:25:29 > 8178b3: SYS INFO] Status changed to Stopped
+[12/11/2020 17:25:44 > 8178b3: SYS INFO] Status changed to Starting
+[12/11/2020 17:25:44 > 8178b3: SYS INFO] WebJob singleton setting is False
+[12/11/2020 17:25:44 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/11/2020 17:25:44 > 8178b3: SYS INFO] Status changed to Running
+[12/11/2020 17:46:54 > 8178b3: SYS INFO] WebJob is stopping due to website shutting down
+[12/11/2020 17:46:54 > 8178b3: SYS INFO] Status changed to Stopping
+[12/11/2020 17:46:59 > 8178b3: ERR ] Thread was being aborted.
+[12/11/2020 17:46:59 > 8178b3: SYS INFO] WebJob process was aborted
+[12/11/2020 17:46:59 > 8178b3: SYS INFO] Status changed to Stopped
+[12/11/2020 17:47:22 > 8178b3: SYS INFO] Status changed to Starting
+[12/11/2020 17:47:22 > 8178b3: SYS INFO] WebJob singleton setting is False
+[12/11/2020 17:47:22 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/11/2020 17:47:22 > 8178b3: SYS INFO] Status changed to Running
+[12/11/2020 17:53:37 > 8178b3: SYS INFO] WebJob is stopping due to website shutting down
+[12/11/2020 17:53:38 > 8178b3: SYS INFO] Status changed to Stopping
+[12/11/2020 17:53:44 > 8178b3: ERR ] Thread was being aborted.
+[12/11/2020 17:53:44 > 8178b3: SYS INFO] WebJob process was aborted
+[12/11/2020 17:53:44 > 8178b3: SYS INFO] Status changed to Stopped
+[12/11/2020 17:53:56 > 8178b3: SYS INFO] Status changed to Starting
+[12/11/2020 17:53:56 > 8178b3: SYS INFO] WebJob singleton setting is False
+[12/11/2020 17:53:56 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/11/2020 17:53:56 > 8178b3: SYS INFO] Status changed to Running
+[12/11/2020 17:56:54 > 8178b3: SYS INFO] WebJob is stopping due to website shutting down
+[12/11/2020 17:56:54 > 8178b3: SYS INFO] Status changed to Stopping
+[12/11/2020 17:56:59 > 8178b3: ERR ] Thread was being aborted.
+[12/11/2020 17:56:59 > 8178b3: SYS INFO] WebJob process was aborted
+[12/11/2020 17:56:59 > 8178b3: SYS INFO] Status changed to Stopped
+[12/11/2020 17:57:22 > 8178b3: SYS INFO] Status changed to Starting
+[12/11/2020 17:57:22 > 8178b3: SYS INFO] WebJob singleton setting is False
+[12/11/2020 17:57:22 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/11/2020 17:57:22 > 8178b3: SYS INFO] Status changed to Running
+[12/11/2020 18:14:07 > 8178b3: SYS INFO] WebJob is stopping due to website shutting down
+[12/11/2020 18:14:07 > 8178b3: SYS INFO] Status changed to Stopping
+[12/11/2020 18:14:13 > 8178b3: ERR ] Thread was being aborted.
+[12/11/2020 18:14:13 > 8178b3: SYS INFO] WebJob process was aborted
+[12/11/2020 18:14:13 > 8178b3: SYS INFO] Status changed to Stopped
+[12/11/2020 18:14:28 > 8178b3: SYS INFO] Status changed to Starting
+[12/11/2020 18:14:28 > 8178b3: SYS INFO] WebJob singleton setting is False
+[12/11/2020 18:14:29 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/11/2020 18:14:29 > 8178b3: SYS INFO] Status changed to Running
+[12/11/2020 18:32:07 > 8178b3: SYS INFO] WebJob is stopping due to website shutting down
+[12/11/2020 18:32:08 > 8178b3: SYS INFO] Status changed to Stopping
+[12/11/2020 18:32:13 > 8178b3: ERR ] Thread was being aborted.
+[12/11/2020 18:32:13 > 8178b3: SYS INFO] WebJob process was aborted
+[12/11/2020 18:32:13 > 8178b3: SYS INFO] Status changed to Stopped
+[12/11/2020 18:32:27 > 8178b3: SYS INFO] Status changed to Starting
+[12/11/2020 18:32:27 > 8178b3: SYS INFO] WebJob singleton setting is False
+[12/11/2020 18:32:28 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/11/2020 18:32:28 > 8178b3: SYS INFO] Status changed to Running
+[12/11/2020 18:40:52 > 8178b3: SYS INFO] WebJob is stopping due to website shutting down
+[12/11/2020 18:40:52 > 8178b3: SYS INFO] Status changed to Stopping
+[12/11/2020 18:40:58 > 8178b3: ERR ] Thread was being aborted.
+[12/11/2020 18:40:58 > 8178b3: SYS INFO] WebJob process was aborted
+[12/11/2020 18:40:58 > 8178b3: SYS INFO] Status changed to Stopped
+[12/11/2020 18:43:13 > 8178b3: SYS INFO] Status changed to Starting
+[12/11/2020 18:43:13 > 8178b3: SYS INFO] WebJob singleton setting is False
+[12/11/2020 18:43:13 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/11/2020 18:43:14 > 8178b3: SYS INFO] Status changed to Running
+[12/11/2020 18:44:25 > 8178b3: SYS INFO] WebJob is stopping due to website shutting down
+[12/11/2020 18:44:25 > 8178b3: SYS INFO] Status changed to Stopping
+[12/11/2020 18:44:31 > 8178b3: ERR ] Thread was being aborted.
+[12/11/2020 18:44:31 > 8178b3: SYS INFO] WebJob process was aborted
+[12/11/2020 18:44:31 > 8178b3: SYS INFO] Status changed to Stopped
+[12/11/2020 18:44:46 > 8178b3: SYS INFO] Status changed to Starting
+[12/11/2020 18:44:46 > 8178b3: SYS INFO] WebJob singleton setting is False
+[12/11/2020 18:44:46 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/11/2020 18:44:46 > 8178b3: SYS INFO] Status changed to Running
+[12/11/2020 19:10:55 > 8178b3: SYS INFO] WebJob is stopping due to website shutting down
+[12/11/2020 19:10:55 > 8178b3: SYS INFO] Status changed to Stopping
+[12/11/2020 19:11:00 > 8178b3: ERR ] Thread was being aborted.
+[12/11/2020 19:11:00 > 8178b3: SYS INFO] WebJob process was aborted
+[12/11/2020 19:11:00 > 8178b3: SYS INFO] Status changed to Stopped
+[12/11/2020 19:11:18 > 8178b3: SYS INFO] Status changed to Starting
+[12/11/2020 19:11:18 > 8178b3: SYS INFO] WebJob singleton setting is False
+[12/11/2020 19:11:19 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/11/2020 19:11:19 > 8178b3: SYS INFO] Status changed to Running
+[12/11/2020 19:15:26 > 8178b3: SYS INFO] WebJob is stopping due to website shutting down
+[12/11/2020 19:15:26 > 8178b3: SYS INFO] Status changed to Stopping
+[12/11/2020 19:15:31 > 8178b3: ERR ] Thread was being aborted.
+[12/11/2020 19:15:31 > 8178b3: SYS INFO] WebJob process was aborted
+[12/11/2020 19:15:31 > 8178b3: SYS INFO] Status changed to Stopped
+[12/11/2020 19:15:50 > 8178b3: SYS INFO] Status changed to Starting
+[12/11/2020 19:15:50 > 8178b3: SYS INFO] WebJob singleton setting is False
+[12/11/2020 19:15:50 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/11/2020 19:15:50 > 8178b3: SYS INFO] Status changed to Running
+[12/11/2020 19:21:26 > 8178b3: SYS INFO] WebJob is stopping due to website shutting down
+[12/11/2020 19:21:26 > 8178b3: SYS INFO] Status changed to Stopping
+[12/11/2020 19:21:31 > 8178b3: ERR ] Thread was being aborted.
+[12/11/2020 19:21:31 > 8178b3: SYS INFO] WebJob process was aborted
+[12/11/2020 19:21:31 > 8178b3: SYS INFO] Status changed to Stopped
+[12/11/2020 19:21:46 > 8178b3: SYS INFO] Status changed to Starting
+[12/11/2020 19:21:46 > 8178b3: SYS INFO] WebJob singleton setting is False
+[12/11/2020 19:21:46 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/11/2020 19:21:46 > 8178b3: SYS INFO] Status changed to Running
+[12/11/2020 19:24:26 > 8178b3: SYS INFO] WebJob is stopping due to website shutting down
+[12/11/2020 19:24:26 > 8178b3: SYS INFO] Status changed to Stopping
+[12/11/2020 19:24:31 > 8178b3: ERR ] Thread was being aborted.
+[12/11/2020 19:24:31 > 8178b3: SYS INFO] WebJob process was aborted
+[12/11/2020 19:24:31 > 8178b3: SYS INFO] Status changed to Stopped
+[12/11/2020 19:24:48 > 8178b3: SYS INFO] Status changed to Starting
+[12/11/2020 19:24:48 > 8178b3: SYS INFO] WebJob singleton setting is False
+[12/11/2020 19:24:48 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/11/2020 19:24:48 > 8178b3: SYS INFO] Status changed to Running
+[12/11/2020 19:34:55 > 8178b3: SYS INFO] WebJob is stopping due to website shutting down
+[12/11/2020 19:34:55 > 8178b3: SYS INFO] Status changed to Stopping
+[12/11/2020 19:35:01 > 8178b3: ERR ] Thread was being aborted.
+[12/11/2020 19:35:01 > 8178b3: SYS INFO] WebJob process was aborted
+[12/11/2020 19:35:01 > 8178b3: SYS INFO] Status changed to Stopped
+[12/11/2020 19:35:14 > 8178b3: SYS INFO] Status changed to Starting
+[12/11/2020 19:35:14 > 8178b3: SYS INFO] WebJob singleton setting is False
+[12/11/2020 19:35:15 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/11/2020 19:35:15 > 8178b3: SYS INFO] Status changed to Running
+[12/11/2020 19:45:26 > 8178b3: SYS INFO] WebJob is stopping due to website shutting down
+[12/11/2020 19:45:26 > 8178b3: SYS INFO] Status changed to Stopping
+[12/11/2020 19:45:32 > 8178b3: ERR ] Thread was being aborted.
+[12/11/2020 19:45:32 > 8178b3: SYS INFO] WebJob process was aborted
+[12/11/2020 19:45:32 > 8178b3: SYS INFO] Status changed to Stopped
+[12/11/2020 19:45:54 > 8178b3: SYS INFO] Status changed to Starting
+[12/11/2020 19:45:54 > 8178b3: SYS INFO] WebJob singleton setting is False
+[12/11/2020 19:45:55 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/11/2020 19:45:55 > 8178b3: SYS INFO] Status changed to Running
+[12/11/2020 20:26:28 > 8178b3: SYS INFO] WebJob is stopping due to website shutting down
+[12/11/2020 20:26:28 > 8178b3: SYS INFO] Status changed to Stopping
+[12/11/2020 20:26:33 > 8178b3: ERR ] Thread was being aborted.
+[12/11/2020 20:26:33 > 8178b3: SYS INFO] WebJob process was aborted
+[12/11/2020 20:26:33 > 8178b3: SYS INFO] Status changed to Stopped
+[12/11/2020 20:26:51 > 8178b3: SYS INFO] Status changed to Starting
+[12/11/2020 20:26:51 > 8178b3: SYS INFO] WebJob singleton setting is False
+[12/11/2020 20:26:51 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/11/2020 20:26:51 > 8178b3: SYS INFO] Status changed to Running
+[12/11/2020 20:30:31 > 8178b3: SYS INFO] WebJob is stopping due to website shutting down
+[12/11/2020 20:30:31 > 8178b3: SYS INFO] Status changed to Stopping
+[12/11/2020 20:30:37 > 8178b3: ERR ] Thread was being aborted.
+[12/11/2020 20:30:37 > 8178b3: SYS INFO] WebJob process was aborted
+[12/11/2020 20:30:37 > 8178b3: SYS INFO] Status changed to Stopped
+[12/11/2020 20:30:49 > 8178b3: SYS INFO] Status changed to Starting
+[12/11/2020 20:30:49 > 8178b3: SYS INFO] WebJob singleton setting is False
+[12/11/2020 20:30:49 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/11/2020 20:30:49 > 8178b3: SYS INFO] Status changed to Running
+[12/11/2020 21:30:49 > 8178b3: SYS INFO] WebJob is still running
+[12/12/2020 07:29:13 > 8178b3: SYS INFO] WebJob is stopping due to website shutting down
+[12/12/2020 07:29:13 > 8178b3: SYS INFO] Status changed to Stopping
+[12/12/2020 07:29:18 > 8178b3: ERR ] Thread was being aborted.
+[12/12/2020 07:29:18 > 8178b3: SYS INFO] WebJob process was aborted
+[12/12/2020 07:29:18 > 8178b3: SYS INFO] Status changed to Stopped
+[12/12/2020 07:29:45 > 8178b3: SYS INFO] Status changed to Starting
+[12/12/2020 07:29:46 > 8178b3: SYS INFO] WebJob singleton setting is False
+[12/12/2020 07:29:46 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/12/2020 07:29:47 > 8178b3: SYS INFO] Status changed to Running
+[12/12/2020 08:29:46 > 8178b3: SYS INFO] WebJob is still running
+[12/12/2020 11:30:18 > 8178b3: SYS INFO] WebJob is stopping due to website shutting down
+[12/12/2020 11:30:18 > 8178b3: SYS INFO] Status changed to Stopping
+[12/12/2020 11:30:24 > 8178b3: ERR ] Thread was being aborted.
+[12/12/2020 11:30:24 > 8178b3: SYS INFO] WebJob process was aborted
+[12/12/2020 11:30:24 > 8178b3: SYS INFO] Status changed to Stopped
+[12/12/2020 11:30:39 > 8178b3: SYS INFO] Status changed to Starting
+[12/12/2020 11:30:39 > 8178b3: SYS INFO] WebJob singleton setting is False
+[12/12/2020 11:30:40 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/12/2020 11:30:40 > 8178b3: SYS INFO] Status changed to Running
+[12/12/2020 12:30:40 > 8178b3: SYS INFO] WebJob is still running
+[12/12/2020 16:40:26 > 8178b3: SYS INFO] WebJob is stopping due to website shutting down
+[12/12/2020 16:40:26 > 8178b3: SYS INFO] Status changed to Stopping
+[12/12/2020 16:40:31 > 8178b3: ERR ] Thread was being aborted.
+[12/12/2020 16:40:31 > 8178b3: SYS INFO] WebJob process was aborted
+[12/12/2020 16:40:31 > 8178b3: SYS INFO] Status changed to Stopped
+[12/12/2020 16:41:28 > 8178b3: SYS INFO] Status changed to Starting
+[12/12/2020 16:41:28 > 8178b3: SYS INFO] WebJob singleton setting is False
+[12/12/2020 16:41:28 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/12/2020 16:41:28 > 8178b3: SYS INFO] Status changed to Running
+[12/12/2020 17:41:28 > 8178b3: SYS INFO] WebJob is still running
+[12/13/2020 05:41:29 > 8178b3: SYS INFO] WebJob is still running
+[12/13/2020 13:05:54 > 8178b3: SYS INFO] WebJob is stopping due to website shutting down
+[12/13/2020 13:05:54 > 8178b3: SYS INFO] Status changed to Stopping
+[12/13/2020 13:05:59 > 8178b3: ERR ] Thread was being aborted.
+[12/13/2020 13:05:59 > 8178b3: SYS INFO] WebJob process was aborted
+[12/13/2020 13:05:59 > 8178b3: SYS INFO] Status changed to Stopped
+[12/13/2020 13:06:31 > 8178b3: SYS INFO] Status changed to Starting
+[12/13/2020 13:06:31 > 8178b3: SYS INFO] WebJob singleton setting is False
+[12/13/2020 13:06:31 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/13/2020 13:06:31 > 8178b3: SYS INFO] Status changed to Running
+[12/13/2020 14:06:31 > 8178b3: SYS INFO] WebJob is still running
+[12/14/2020 02:06:32 > 8178b3: SYS INFO] WebJob is still running
+[12/14/2020 14:06:34 > 8178b3: SYS INFO] WebJob is still running
+[12/15/2020 02:06:35 > 8178b3: SYS INFO] WebJob is still running
+[12/15/2020 14:06:37 > 8178b3: SYS INFO] WebJob is still running
+[12/16/2020 02:06:38 > 8178b3: SYS INFO] WebJob is still running
+[12/16/2020 14:06:40 > 8178b3: SYS INFO] WebJob is still running
+[12/17/2020 02:06:41 > 8178b3: SYS INFO] WebJob is still running
+[12/17/2020 14:06:43 > 8178b3: SYS INFO] WebJob is still running
+[12/18/2020 02:06:44 > 8178b3: SYS INFO] WebJob is still running
+[12/18/2020 14:06:46 > 8178b3: SYS INFO] WebJob is still running
+[12/19/2020 02:06:47 > 8178b3: SYS INFO] WebJob is still running
+[12/19/2020 14:06:49 > 8178b3: SYS INFO] WebJob is still running
+[12/20/2020 02:06:51 > 8178b3: SYS INFO] WebJob is still running
+[12/20/2020 14:06:52 > 8178b3: SYS INFO] WebJob is still running
+[12/21/2020 02:06:54 > 8178b3: SYS INFO] WebJob is still running
+[12/21/2020 14:06:55 > 8178b3: SYS INFO] WebJob is still running
+[12/22/2020 02:06:57 > 8178b3: SYS INFO] WebJob is still running
+[12/22/2020 14:06:58 > 8178b3: SYS INFO] WebJob is still running
+[12/22/2020 22:39:50 > 8178b3: SYS INFO] WebJob is stopping due to website shutting down
+[12/22/2020 22:39:50 > 8178b3: SYS INFO] Status changed to Stopping
+[12/22/2020 22:39:55 > 8178b3: ERR ] Thread was being aborted.
+[12/22/2020 22:39:55 > 8178b3: SYS INFO] WebJob process was aborted
+[12/22/2020 22:39:55 > 8178b3: SYS INFO] Status changed to Stopped
+[12/22/2020 22:40:09 > 8178b3: SYS INFO] Status changed to Starting
+[12/22/2020 22:40:09 > 8178b3: SYS INFO] WebJob singleton setting is False
+[12/22/2020 22:40:09 > 8178b3: SYS INFO] Run script 'DaaSRunner.exe' with script host - 'WindowsScriptHost'
+[12/22/2020 22:40:09 > 8178b3: SYS INFO] Status changed to Running
+[12/22/2020 23:40:09 > 8178b3: SYS INFO] WebJob is still running

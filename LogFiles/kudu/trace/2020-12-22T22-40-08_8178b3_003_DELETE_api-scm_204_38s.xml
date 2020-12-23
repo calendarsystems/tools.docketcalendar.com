@@ -1,0 +1,14 @@
+<step title="Incoming Request" date="2020-12-22T22:40:08.485" instance="8178b3" url="/api/scm" method="DELETE" type="request" pid="18904,2,7" Connection="Keep-Alive" Authorization="Bas..." Host="toolsdc.scm.azurewebsites.net" User-Agent="Azure-WebSites-Controller/91.0.7.79" x-ms-request-id="97457a79-c6ec-4709-a0f7-42ec5a1eb569" X-WAWS-Unencoded-URL="/api/scm" CLIENT-IP="52.173.87.130:42016" X-ARR-LOG-ID="97457a79-c6ec-4709-a0f7-42ec5a1eb569" X-SITE-DEPLOYMENT-ID="ToolsDC" WAS-DEFAULT-HOSTNAME="toolsdc.scm.azurewebsites.net" X-Forwarded-Proto="https" X-AppService-Proto="https" X-Forwarded-TlsVersion="1.2" >
+  <step title="Assuming git repository at D:\home\site\repository" date="2020-12-22T22:40:08.923" /><!-- duration: 0ms -->
+  <step title="LockFile &apos;D:\home\site\locks\deployments.lock&apos; acquired" date="2020-12-22T22:40:09.110" /><!-- duration: 16ms -->
+  <step title="Deleting repository" date="2020-12-22T22:40:09.142" /><!-- duration: 37307ms -->
+  <step title="Delete auto swap lock file" date="2020-12-22T22:40:46.465" /><!-- duration: 16ms -->
+  <step title="Deleting ssh key" date="2020-12-22T22:40:46.480" /><!-- duration: 32ms -->
+  <step title="Updating initial deployment manifest" date="2020-12-22T22:40:46.512" >
+    <step title="LockFile &apos;D:\home\site\locks\status.lock&apos; acquired" date="2020-12-22T22:40:46.543" /><!-- duration: 0ms -->
+    <step title="LockFile &apos;D:\home\site\locks\status.lock&apos; released" date="2020-12-22T22:40:46.574" /><!-- duration: 0ms -->
+  </step><!-- duration: 109ms -->
+  <step title="Deleting deployment cache" date="2020-12-22T22:40:46.636" /><!-- duration: 220ms -->
+  <step title="LockFile &apos;D:\home\site\locks\deployments.lock&apos; released" date="2020-12-22T22:40:46.871" /><!-- duration: 0ms -->
+  <step title="Outgoing response" date="2020-12-22T22:40:46.886" type="response" statusCode="204" statusText="No Content" Server="Microsoft-IIS/10.0" x-ms-request-id="97457a79-c6ec-4709-a0f7-42ec5a1eb569" Cache-Control="private" X-AspNet-Version="4.0.30319" /><!-- duration: 0ms -->
+</step><!-- duration: 38417ms -->

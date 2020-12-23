@@ -1,0 +1,3 @@
+<step title="Startup Request" date="2020-12-12T11:30:35.356" instance="8178b3" url="/" method="GET" type="request" pid="12064,2,6" SCM_SKIP_SSL_VALIDATION="0" ScmType="ExternalGit" >
+  <step title="Cleanup Xml Logs" date="2020-12-12T11:30:35.372" /><!-- duration: 16ms -->
+</step><!-- duration: 47ms -->

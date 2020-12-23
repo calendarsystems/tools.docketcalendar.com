@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<deployment>
+  <id>aac1d7d9bf6f05fd9a96b3b21542e749bf3ea763</id>
+  <author>JennyLawrance</author>
+  <deployer>GitHub</deployer>
+  <authorEmail>jennylaw@microsoft.com</authorEmail>
+  <message>Merge pull request #102 from azureappserviceoss/revert-96-5.2.4-windows-wp
+
+Revert "New version of wordpress,version is 5.2.4"</message>
+  <progress></progress>
+  <status>Success</status>
+  <statusText></statusText>
+  <lastSuccessEndTime>2020-12-07T11:28:40.323201Z</lastSuccessEndTime>
+  <receivedTime>2020-12-07T11:27:50.5891186Z</receivedTime>
+  <startTime>2020-12-07T11:27:50.8391272Z</startTime>
+  <endTime>2020-12-07T11:28:40.323201Z</endTime>
+  <complete>True</complete>
+  <is_temp>False</is_temp>
+  <is_readonly>False</is_readonly>
+</deployment>
